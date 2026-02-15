@@ -18,7 +18,6 @@ module.exports = {
           200: '#0f0d23',
         },
         accent: '#AB8BFF',
-        navbarIcons: '#151312'
       },
     },
   },
